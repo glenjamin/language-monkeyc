@@ -1,0 +1,14 @@
+{
+  "name": "language-monkeyc",
+  "version": "0.0.0",
+  "description": "Syntax Highlighting for Monkey C as used by Garmin's ConnectIQ SDK",
+  "keywords": [
+  ],
+  "repository": "https://github.com/glenjamin/language-monkeyc",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
